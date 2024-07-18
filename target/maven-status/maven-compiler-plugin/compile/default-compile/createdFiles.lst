@@ -1,0 +1,13 @@
+com\bws\backupdms\resource\FTPUploadUtil.class
+com\bws\backupdms\controller\ISQLDetail_fileServerBaru.class
+com\bws\backupdms\controller\SQLDetail_fileServerBaru.class
+com\bws\backupdms\controller\ISQLDetail_fileServerLama.class
+com\bws\backupdms\resource\FTPUtilUpload.class
+com\bws\backupdms\model\Data_file.class
+com\bws\backupdms\model\Comment.class
+com\bws\backupdms\koneksi\Koneksi$1.class
+com\bws\backupdms\koneksi\Koneksi.class
+com\bws\backupdms\koneksi\Koneksi$2.class
+com\bws\backupdms\controller\SQLDetail_fileServerLama.class
+com\bws\backupdms\resource\CreateFolder.class
+com\bws\backupdms\model\Detail_file.class
